@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 9f0945af17d9bf54c8a53b4ac12aa8b1
+timeCreated: 1509550166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Axle
+    100002: Big Wheel Left
+    100004: Big Wheel Right
+    100006: Bolts00
+    100008: Bolts01
+    100010: Bolts02
+    100012: Bolts03
+    100014: Bolts04
+    100016: Bolts05
+    100018: Bolts06
+    100020: Bolts07
+    100022: Bottoms
+    100024: Caster Bracket001
+    100026: Caster Bracket002
+    100028: Caster Rim001
+    100030: Caster Rim002
+    100032: Caster Tire001
+    100034: Caster Tire002
+    100036: Caster Wheel001
+    100038: Caster Wheel002
+    100040: Cushion
+    100042: Foot Grate
+    100044: Foot Rest
+    100046: Foot Rest_MeshPart0
+    100048: Foot Rest_MeshPart1
+    100050: Frame
+    100052: Frame 1
+    100054: Frame 1_MeshPart0
+    100056: Frame 1_MeshPart1
+    100058: Frame 1_MeshPart2
+    100060: Hub
+    100062: Hub001
+    100064: //RootNode
+    100066: Pins00
+    100068: Pins01
+    100070: Rim
+    100072: Rim001
+    100074: Seat Back
+    100076: Seat Bracket00
+    100078: Seat Bracket01
+    100080: Seat Bracket02
+    100082: Seat Bracket03
+    100084: Seat Clamp L
+    100086: Seat Clamp R
+    100088: Shoes
+    100090: Tire
+    100092: Tire001
+    100094: Tops
+    400000: Axle
+    400002: Big Wheel Left
+    400004: Big Wheel Right
+    400006: Bolts00
+    400008: Bolts01
+    400010: Bolts02
+    400012: Bolts03
+    400014: Bolts04
+    400016: Bolts05
+    400018: Bolts06
+    400020: Bolts07
+    400022: Bottoms
+    400024: Caster Bracket001
+    400026: Caster Bracket002
+    400028: Caster Rim001
+    400030: Caster Rim002
+    400032: Caster Tire001
+    400034: Caster Tire002
+    400036: Caster Wheel001
+    400038: Caster Wheel002
+    400040: Cushion
+    400042: Foot Grate
+    400044: Foot Rest
+    400046: Foot Rest_MeshPart0
+    400048: Foot Rest_MeshPart1
+    400050: Frame
+    400052: Frame 1
+    400054: Frame 1_MeshPart0
+    400056: Frame 1_MeshPart1
+    400058: Frame 1_MeshPart2
+    400060: Hub
+    400062: Hub001
+    400064: //RootNode
+    400066: Pins00
+    400068: Pins01
+    400070: Rim
+    400072: Rim001
+    400074: Seat Back
+    400076: Seat Bracket00
+    400078: Seat Bracket01
+    400080: Seat Bracket02
+    400082: Seat Bracket03
+    400084: Seat Clamp L
+    400086: Seat Clamp R
+    400088: Shoes
+    400090: Tire
+    400092: Tire001
+    400094: Tops
+    2300000: Axle
+    2300002: Bolts00
+    2300004: Bolts01
+    2300006: Bolts02
+    2300008: Bolts03
+    2300010: Bolts04
+    2300012: Bolts05
+    2300014: Bolts06
+    2300016: Bolts07
+    2300018: Bottoms
+    2300020: Caster Bracket001
+    2300022: Caster Bracket002
+    2300024: Caster Rim001
+    2300026: Caster Rim002
+    2300028: Caster Tire001
+    2300030: Caster Tire002
+    2300032: Cushion
+    2300034: Foot Grate
+    2300036: Foot Rest_MeshPart0
+    2300038: Foot Rest_MeshPart1
+    2300040: Frame 1_MeshPart0
+    2300042: Frame 1_MeshPart1
+    2300044: Frame 1_MeshPart2
+    2300046: Hub
+    2300048: Hub001
+    2300050: Pins00
+    2300052: Pins01
+    2300054: Rim
+    2300056: Rim001
+    2300058: Seat Back
+    2300060: Seat Bracket00
+    2300062: Seat Bracket01
+    2300064: Seat Bracket02
+    2300066: Seat Bracket03
+    2300068: Seat Clamp L
+    2300070: Seat Clamp R
+    2300072: Shoes
+    2300074: Tire
+    2300076: Tire001
+    2300078: Tops
+    3300000: Axle
+    3300002: Bolts00
+    3300004: Bolts01
+    3300006: Bolts02
+    3300008: Bolts03
+    3300010: Bolts04
+    3300012: Bolts05
+    3300014: Bolts06
+    3300016: Bolts07
+    3300018: Bottoms
+    3300020: Caster Bracket001
+    3300022: Caster Bracket002
+    3300024: Caster Rim001
+    3300026: Caster Rim002
+    3300028: Caster Tire001
+    3300030: Caster Tire002
+    3300032: Cushion
+    3300034: Foot Grate
+    3300036: Foot Rest_MeshPart0
+    3300038: Foot Rest_MeshPart1
+    3300040: Frame 1_MeshPart0
+    3300042: Frame 1_MeshPart1
+    3300044: Frame 1_MeshPart2
+    3300046: Hub
+    3300048: Hub001
+    3300050: Pins00
+    3300052: Pins01
+    3300054: Rim
+    3300056: Rim001
+    3300058: Seat Back
+    3300060: Seat Bracket00
+    3300062: Seat Bracket01
+    3300064: Seat Bracket02
+    3300066: Seat Bracket03
+    3300068: Seat Clamp L
+    3300070: Seat Clamp R
+    3300072: Shoes
+    3300074: Tire
+    3300076: Tire001
+    3300078: Tops
+    4300000: Tops
+    4300002: Bottoms
+    4300004: Shoes
+    4300006: Seat Bracket03
+    4300008: Bolts00
+    4300010: Axle
+    4300012: Seat Clamp L
+    4300014: Bolts01
+    4300016: Bolts02
+    4300018: Foot Rest_MeshPart0
+    4300020: Foot Rest_MeshPart1
+    4300022: Bolts03
+    4300024: Bolts04
+    4300026: Foot Grate
+    4300028: Bolts05
+    4300030: Bolts07
+    4300032: Bolts06
+    4300034: Seat Bracket01
+    4300036: Seat Bracket02
+    4300038: Cushion
+    4300040: Seat Bracket00
+    4300042: Seat Clamp R
+    4300044: Pins00
+    4300046: Pins01
+    4300048: Frame_MeshPart0
+    4300050: Frame_MeshPart1
+    4300052: Frame_MeshPart2
+    4300054: Seat Back
+    4300056: Tire001
+    4300058: Rim001
+    4300060: Hub001
+    4300062: Rim
+    4300064: Tire
+    4300066: Hub
+    4300068: Caster Rim001
+    4300070: Caster Tire001
+    4300072: Caster Bracket001
+    4300074: Caster Rim002
+    4300076: Caster Tire002
+    4300078: Caster Bracket002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 77eb8c80a8b270243a79e2a59f9e59e8
+timeCreated: 1508195299
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Axle
+    100002: Beta_HighJointsGeo
+    100004: Beta_HighLimbsGeo
+    100006: Beta_HighTorsoGeo
+    100008: BetaHighResMeshes
+    100010: Big Wheel Left
+    100012: Big Wheel Right
+    100014: Bolts00
+    100016: Bolts01
+    100018: Bolts02
+    100020: Bolts03
+    100022: Bolts04
+    100024: Bolts05
+    100026: Bolts06
+    100028: Bolts07
+    100030: Caster Bracket001
+    100032: Caster Bracket002
+    100034: Caster Rim001
+    100036: Caster Rim002
+    100038: Caster Tire001
+    100040: Caster Tire002
+    100042: Caster Wheel001
+    100044: Caster Wheel002
+    100046: Cushion
+    100048: //RootNode
+    100050: Foot Grate
+    100052: Foot Rest
+    100054: Foot Rest_MeshPart0
+    100056: Foot Rest_MeshPart1
+    100058: Frame
+    100060: Frame 1
+    100062: Frame 1_MeshPart0
+    100064: Frame 1_MeshPart1
+    100066: Frame 1_MeshPart2
+    100068: Head
+    100070: HeadTop_End
+    100072: Hips
+    100074: Hub
+    100076: Hub001
+    100078: LeftArm
+    100080: LeftFoot
+    100082: LeftFootToeBase_End
+    100084: LeftForeArm
+    100086: LeftHand
+    100088: LeftHandIndex1
+    100090: LeftHandIndex2
+    100092: LeftHandIndex3
+    100094: LeftHandIndex4
+    100096: LeftHandMiddle1
+    100098: LeftHandMiddle2
+    100100: LeftHandMiddle3
+    100102: LeftHandMiddle4
+    100104: LeftHandPinky1
+    100106: LeftHandPinky2
+    100108: LeftHandPinky3
+    100110: LeftHandPinky4
+    100112: LeftHandRing1
+    100114: LeftHandRing2
+    100116: LeftHandRing3
+    100118: LeftHandRing4
+    100120: LeftHandThumb1
+    100122: LeftHandThumb2
+    100124: LeftHandThumb3
+    100126: LeftHandThumb4
+    100128: LeftLeg
+    100130: LeftShoulder
+    100132: LeftToeBase
+    100134: LeftUpLeg
+    100136: Neck
+    100138: Neck1
+    100140: Pins00
+    100142: Pins01
+    100144: RightArm
+    100146: RightFoot
+    100148: RightFootToeBase_End
+    100150: RightForeArm
+    100152: RightHand
+    100154: RightHandIndex1
+    100156: RightHandIndex2
+    100158: RightHandIndex3
+    100160: RightHandIndex4
+    100162: RightHandMiddle1
+    100164: RightHandMiddle2
+    100166: RightHandMiddle3
+    100168: RightHandMiddle4
+    100170: RightHandPinky1
+    100172: RightHandPinky2
+    100174: RightHandPinky3
+    100176: RightHandPinky4
+    100178: RightHandRing1
+    100180: RightHandRing2
+    100182: RightHandRing3
+    100184: RightHandRing4
+    100186: RightHandThumb1
+    100188: RightHandThumb2
+    100190: RightHandThumb3
+    100192: RightHandThumb4
+    100194: RightLeg
+    100196: RightShoulder
+    100198: RightToeBase
+    100200: RightUpLeg
+    100202: Rim
+    100204: Rim001
+    100206: Seat Back
+    100208: Seat Bracket00
+    100210: Seat Bracket01
+    100212: Seat Bracket02
+    100214: Seat Bracket03
+    100216: Seat Clamp L
+    100218: Seat Clamp R
+    100220: Spine
+    100222: Spine1
+    100224: Spine2
+    100226: Tire
+    100228: Tire001
+    400000: Axle
+    400002: Beta_HighJointsGeo
+    400004: Beta_HighLimbsGeo
+    400006: Beta_HighTorsoGeo
+    400008: BetaHighResMeshes
+    400010: Big Wheel Left
+    400012: Big Wheel Right
+    400014: Bolts00
+    400016: Bolts01
+    400018: Bolts02
+    400020: Bolts03
+    400022: Bolts04
+    400024: Bolts05
+    400026: Bolts06
+    400028: Bolts07
+    400030: Caster Bracket001
+    400032: Caster Bracket002
+    400034: Caster Rim001
+    400036: Caster Rim002
+    400038: Caster Tire001
+    400040: Caster Tire002
+    400042: Caster Wheel001
+    400044: Caster Wheel002
+    400046: Cushion
+    400048: //RootNode
+    400050: Foot Grate
+    400052: Foot Rest
+    400054: Foot Rest_MeshPart0
+    400056: Foot Rest_MeshPart1
+    400058: Frame
+    400060: Frame 1
+    400062: Frame 1_MeshPart0
+    400064: Frame 1_MeshPart1
+    400066: Frame 1_MeshPart2
+    400068: Head
+    400070: HeadTop_End
+    400072: Hips
+    400074: Hub
+    400076: Hub001
+    400078: LeftArm
+    400080: LeftFoot
+    400082: LeftFootToeBase_End
+    400084: LeftForeArm
+    400086: LeftHand
+    400088: LeftHandIndex1
+    400090: LeftHandIndex2
+    400092: LeftHandIndex3
+    400094: LeftHandIndex4
+    400096: LeftHandMiddle1
+    400098: LeftHandMiddle2
+    400100: LeftHandMiddle3
+    400102: LeftHandMiddle4
+    400104: LeftHandPinky1
+    400106: LeftHandPinky2
+    400108: LeftHandPinky3
+    400110: LeftHandPinky4
+    400112: LeftHandRing1
+    400114: LeftHandRing2
+    400116: LeftHandRing3
+    400118: LeftHandRing4
+    400120: LeftHandThumb1
+    400122: LeftHandThumb2
+    400124: LeftHandThumb3
+    400126: LeftHandThumb4
+    400128: LeftLeg
+    400130: LeftShoulder
+    400132: LeftToeBase
+    400134: LeftUpLeg
+    400136: Neck
+    400138: Neck1
+    400140: Pins00
+    400142: Pins01
+    400144: RightArm
+    400146: RightFoot
+    400148: RightFootToeBase_End
+    400150: RightForeArm
+    400152: RightHand
+    400154: RightHandIndex1
+    400156: RightHandIndex2
+    400158: RightHandIndex3
+    400160: RightHandIndex4
+    400162: RightHandMiddle1
+    400164: RightHandMiddle2
+    400166: RightHandMiddle3
+    400168: RightHandMiddle4
+    400170: RightHandPinky1
+    400172: RightHandPinky2
+    400174: RightHandPinky3
+    400176: RightHandPinky4
+    400178: RightHandRing1
+    400180: RightHandRing2
+    400182: RightHandRing3
+    400184: RightHandRing4
+    400186: RightHandThumb1
+    400188: RightHandThumb2
+    400190: RightHandThumb3
+    400192: RightHandThumb4
+    400194: RightLeg
+    400196: RightShoulder
+    400198: RightToeBase
+    400200: RightUpLeg
+    400202: Rim
+    400204: Rim001
+    400206: Seat Back
+    400208: Seat Bracket00
+    400210: Seat Bracket01
+    400212: Seat Bracket02
+    400214: Seat Bracket03
+    400216: Seat Clamp L
+    400218: Seat Clamp R
+    400220: Spine
+    400222: Spine1
+    400224: Spine2
+    400226: Tire
+    400228: Tire001
+    2300000: Axle
+    2300002: Bolts00
+    2300004: Bolts01
+    2300006: Bolts02
+    2300008: Bolts03
+    2300010: Bolts04
+    2300012: Bolts05
+    2300014: Bolts06
+    2300016: Bolts07
+    2300018: Caster Bracket001
+    2300020: Caster Bracket002
+    2300022: Caster Rim001
+    2300024: Caster Rim002
+    2300026: Caster Tire001
+    2300028: Caster Tire002
+    2300030: Cushion
+    2300032: Foot Grate
+    2300034: Foot Rest_MeshPart0
+    2300036: Foot Rest_MeshPart1
+    2300038: Frame 1_MeshPart0
+    2300040: Frame 1_MeshPart1
+    2300042: Frame 1_MeshPart2
+    2300044: Hub
+    2300046: Hub001
+    2300048: Pins00
+    2300050: Pins01
+    2300052: Rim
+    2300054: Rim001
+    2300056: Seat Back
+    2300058: Seat Bracket00
+    2300060: Seat Bracket01
+    2300062: Seat Bracket02
+    2300064: Seat Bracket03
+    2300066: Seat Clamp L
+    2300068: Seat Clamp R
+    2300070: Tire
+    2300072: Tire001
+    3300000: Axle
+    3300002: Bolts00
+    3300004: Bolts01
+    3300006: Bolts02
+    3300008: Bolts03
+    3300010: Bolts04
+    3300012: Bolts05
+    3300014: Bolts06
+    3300016: Bolts07
+    3300018: Caster Bracket001
+    3300020: Caster Bracket002
+    3300022: Caster Rim001
+    3300024: Caster Rim002
+    3300026: Caster Tire001
+    3300028: Caster Tire002
+    3300030: Cushion
+    3300032: Foot Grate
+    3300034: Foot Rest_MeshPart0
+    3300036: Foot Rest_MeshPart1
+    3300038: Frame 1_MeshPart0
+    3300040: Frame 1_MeshPart1
+    3300042: Frame 1_MeshPart2
+    3300044: Hub
+    3300046: Hub001
+    3300048: Pins00
+    3300050: Pins01
+    3300052: Rim
+    3300054: Rim001
+    3300056: Seat Back
+    3300058: Seat Bracket00
+    3300060: Seat Bracket01
+    3300062: Seat Bracket02
+    3300064: Seat Bracket03
+    3300066: Seat Clamp L
+    3300068: Seat Clamp R
+    3300070: Tire
+    3300072: Tire001
+    4300000: Beta_HighLimbsGeo
+    4300002: Beta_HighTorsoGeo
+    4300004: Beta_HighJointsGeo
+    4300006: Seat Bracket03
+    4300008: Bolts00
+    4300010: Axle
+    4300012: Seat Clamp L
+    4300014: Bolts01
+    4300016: Bolts02
+    4300018: Foot Rest_MeshPart0
+    4300020: Foot Rest_MeshPart1
+    4300022: Bolts03
+    4300024: Bolts04
+    4300026: Foot Grate
+    4300028: Bolts05
+    4300030: Bolts07
+    4300032: Bolts06
+    4300034: Seat Bracket01
+    4300036: Seat Bracket02
+    4300038: Cushion
+    4300040: Seat Bracket00
+    4300042: Seat Clamp R
+    4300044: Pins00
+    4300046: Pins01
+    4300048: Frame_MeshPart0
+    4300050: Frame_MeshPart1
+    4300052: Frame_MeshPart2
+    4300054: Seat Back
+    4300056: Tire001
+    4300058: Rim001
+    4300060: Hub001
+    4300062: Rim
+    4300064: Tire
+    4300066: Hub
+    4300068: Caster Rim001
+    4300070: Caster Tire001
+    4300072: Caster Bracket001
+    4300074: Caster Rim002
+    4300076: Caster Tire002
+    4300078: Caster Bracket002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beta_HighJointsGeo
+    13700002: Beta_HighLimbsGeo
+    13700004: Beta_HighTorsoGeo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
